@@ -1,34 +1,74 @@
-### 我是 Eli 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=111111&center=true&vCenter=true&width=760&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+Eli;Hi%2C+I%27m+Eli;Building+AI+tools+for+learning+and+work;Shipping+agents%2C+workflows%2C+and+language+tools" alt="Typing SVG" />
+</p>
 
-你好呀，我是一名热爱折腾的开发者 + AI 探索者，用技术改变学习方式。
+# 👋 Hey, I'm Eli
 
-- 🤖 **AI 应用开发者**，专注 AI Agent、LLM 应用、Workflow 自动化方向
-- 🗣️ **英语学习爱好者**，并为此亲手开发了 [AI 发音练习工具](https://github.com/qiongyu1999/pronunciation-trainer)
-- 🌊 [Refly](https://github.com/qiongyu1999/refly) 开源贡献者 —— 全球首个开源 "Vibe Workflow" 平台
-- 🛠️ 喜欢造轮子，从 AI 技能系统到 Web 应用，什么有趣做什么
-- 🌱 终身学习者，边学边造，边造边分享
+<p align="center">
+  🤖 AI 应用开发者 / AI application builder<br>
+  🗣️ 英语学习工具开发者 / Building tools for language learning<br>
+  🌊 Open-source contributor in the Refly ecosystem<br>
+  🛠️ Focused on AI agents, LLM apps, workflow automation, and useful software
+</p>
 
----
-
-#### 也许你需要：
-
-- 🎙️ **AI 英语学习：** [pronunciation-trainer](https://github.com/qiongyu1999/pronunciation-trainer) —— 基于 Web Speech API 的 AI 英语发音练习助手，实时分析发音并给出改进建议
-- 📖 **发音学习笔记：** [english-pronunciation-notes](https://github.com/qiongyu1999/english-pronunciation-notes) —— 系统化的英语发音笔记和词汇练习记录
-- 🤖 **AI Agent 技能：** [eli_claude_skill](https://github.com/qiongyu1999/eli_claude_skill) —— 自定义 Claude AI 技能系统，让 AI Agent 更强大
-- 🌊 **自动化工作流：** [refly](https://github.com/qiongyu1999/refly) —— 面向复杂任务的开源 Vibe Workflow 自动化平台
-
----
-
-#### 🛠 技术栈
-
-**语言：** Python · TypeScript · JavaScript · HTML/CSS · Shell
-
-**方向：** LLM 应用开发 · AI Agent · Workflow 自动化 · Web 应用
-
-**工具链：** Claude · Cursor · Git · Web Speech API
+<p align="center">
+  <a href="https://github.com/qiongyu1999">
+    <img src="https://img.shields.io/github/followers/qiongyu1999?style=social" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=qiongyu1999&color=0e75b6&style=flat-square" alt="Profile views" />
+</p>
 
 ---
 
-> 💬 *"Build what you want to learn, share what you've built."*
->
-> 如果你也对 **AI 应用** 或 **英语学习** 感兴趣，欢迎 ⭐ 和 Follow！
+## About Me
+
+- 我在做 AI Agent、LLM 应用、Workflow 自动化和学习工具
+- 我喜欢把“自己想学的东西”做成真正可用的产品
+- 我会一边开发，一边沉淀笔记、方法和可复用的 skill
+- 我对开源协作、个人工具和长期学习系统很感兴趣
+
+---
+
+## Featured Projects
+
+| Project | Description |
+|---|---|
+| [**pronunciation-trainer**](https://github.com/qiongyu1999/pronunciation-trainer) | 一个基于 Web Speech API 的 AI 英语发音练习工具，帮助我把英语学习做成可以反复使用的系统。 |
+| [**english-pronunciation-notes**](https://github.com/qiongyu1999/english-pronunciation-notes) | 我的英语发音学习笔记与练习记录，用来沉淀规则、例词和训练路径。 |
+| [**hu-chenfeng-skill**](https://github.com/qiongyu1999/hu-chenfeng-skill) | 一个参考 `colleague-skill` 方法制作的开源 persona skill，基于公开语料提炼风格与判断方式。 |
+| [**refly**](https://github.com/qiongyu1999/refly) | 我持续参与贡献的开源工作流项目，面向更复杂的 AI 协作与自动化任务。 |
+| [**eli_claude_skill**](https://github.com/qiongyu1999/eli_claude_skill) | 我对 AI skill / agent workflow 的早期探索和实验仓库。 |
+
+---
+
+## What I'm Focused On
+
+- AI agents that are actually useful in daily work
+- Language learning products that feel lightweight and effective
+- Reusable skills, prompts, and workflows for AI systems
+- Turning personal curiosity into open-source tools
+
+---
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-LLM%20Apps-FF6F00?style=for-the-badge" alt="LLM Apps" />
+  <img src="https://img.shields.io/badge/-AI%20Agents-111111?style=for-the-badge" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/-Workflow%20Automation-0EA5E9?style=for-the-badge" alt="Workflow Automation" />
+</p>
+
+---
+
+## Find Me
+
+- GitHub: [@qiongyu1999](https://github.com/qiongyu1999)
+- Profile repository: [qiongyu1999/qiongyu1999](https://github.com/qiongyu1999/qiongyu1999)
+
+---
+
+> Build what you want to learn, then keep refining it until it becomes useful to other people.
+
